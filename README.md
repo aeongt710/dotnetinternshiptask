@@ -38,6 +38,9 @@ Your task is to create a simplified Todo web application using ASP.NET Core with
 
 - Complete the code within a time frame of 2 hours.
 - Submit the code to GitHub and share the repository link.
+- To submit the task, create an **issue** on this repository with the following details:
+  - **Title:** Your Name
+  - **Description:** Link to your GitHub repository containing the task code files.
 - Only the submitted code files will be evaluated, not a complete running project.
 
 ## Bonus
